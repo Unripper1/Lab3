@@ -38,7 +38,7 @@ public class Circle {
     }
 
 }
-class BookTest {
+class CircleTest {
     public static void main(String[] args) {
         Circle one=new Circle(12);
         System.out.println(one.getR()+" "+ one.s()+" "+ one.lengthCircle());
